@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=wolfsige&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=daf7dc&bg_color=151515])
+![](https://github-readme-stats.vercel.app/api?username=wolfsige&&show_icons=true&title_color=#F5A5FF&icon_color=#5411C0&text_color=#3ABEAA&bg_color=#1F1926)
