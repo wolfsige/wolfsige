@@ -3,6 +3,12 @@
 ## Highlighted Projects:<br/>
 [Wolf Collector](https://github.com/wolfsige/Wolf-Collector "Wolf Collector")
 
+| Languages     | Libraries and Frameworks    |
+| ------------- |:-------------:|
+| Python        | Flask         |
+| CSS/HTML      |       |
+| Jinja         |       |
+
 [To Be Decided (front end)](https://github.com/wolfsige/to-be-decided-front-end "To Be Decided")
 
 [To Be Decided (back end)](https://github.com/wolfsige/to-be-decided-back-end "To Be Decided")
