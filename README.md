@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=wolfsige&&show_icons=true&title_color=#F5A5FF&icon_color=#5411C0&text_color=#3ABEAA&bg_color=#1F1926)
 
 ## Highlighted Projects:<br/>
-[Wolf Collector](https://github.com/wolfsige/Wolf-Collector "Wolf Collector")
+[Wolf Collector](https://github.com/wolfsige/wolf_collector_mk2 "Wolf Collector")
 
 | Languages     | Libraries and Frameworks    |
 | ------------- |:-------------:|
@@ -18,10 +18,10 @@
 | CSS/HTML      | Node.js | Bootstrap |
 |               | Express.js |  |
 
-[Meal Preptopia](https://github.com/wolfsige/Meal-Preptopia "Meal Preptopia")
+[Meal Preptopia](https://github.com/wolfsige/meal-preptopia-mk2 "Meal Preptopia")
 
 | Languages     | Libraries and Frameworks    |  Other |
 | ------------- |:-------------:|:--------:|
 | JavaScript    | Node.js | MongoDB | 
-| CSS/HTML      |       | Bootstrap |
+| CSS/HTML      |       |  |
 | Jinja         |       |
