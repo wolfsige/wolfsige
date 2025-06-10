@@ -1,4 +1,9 @@
 ## Highlighted Projects:<br/>
+[Library Book Management](https://github.com/wolfsige/LibraryBookManagement)
+| Languages     |
+| ------------- |
+| Python        |
+
 [Wolf Collector](https://github.com/wolfsige/wolf_collector_mk2 "Wolf Collector")
 
 | Languages     | Libraries and Frameworks    |
